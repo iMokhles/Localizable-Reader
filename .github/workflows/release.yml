@@ -20,7 +20,7 @@ jobs:
       - run: pnpm install
 
       - name: Release Electron app for macOS
-        uses: imokhles/action-electron-builder@v1.0.0
+        uses: imokhles/localizable-reader/@v1.0.0
         with:
           package_manager: "pnpm"
           # GitHub token, automatically provided to the action
