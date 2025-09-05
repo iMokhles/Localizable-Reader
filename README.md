@@ -1,13 +1,13 @@
 # LocalizableReader
 
 <div align="center">
-  <img src="icon/IconCircle.png" alt="LocalizableReader" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/iMokhles/Localizable-Reader/main/icon/IconCircle.png" alt="LocalizableReader" width="128" height="128">
   
   <h3>A powerful desktop application for reading, searching, and managing iOS/macOS localization strings from `.lproj` folders</h3>
   
   <p>Built with Electron and React, LocalizableReader provides an intuitive interface for developers working with multiple language localizations.</p>
   
-  <img src="docs/screenshot1.png" alt="LocalizableReader Screenshot" width="800">
+  <img src="https://raw.githubusercontent.com/iMokhles/Localizable-Reader/main/docs/screenshot1.png" alt="LocalizableReader Screenshot" width="800">
   
   <br><br>
   
