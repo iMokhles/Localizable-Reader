@@ -1,0 +1,26 @@
+/* 
+  LaunchScreen.strings
+  LocalizableReader
+  
+  Created by Test User on 2024-01-01.
+*/
+
+"CFBundleDisplayName" = "My App";
+"CFBundleName" = "My App";
+"CFBundleShortVersionString" = "1.0.0";
+"CFBundleVersion" = "1";
+
+/* Launch Screen */
+"LaunchScreen.title" = "Welcome to My App";
+"LaunchScreen.subtitle" = "The best app ever created";
+"LaunchScreen.button.continue" = "Continue";
+"LaunchScreen.button.cancel" = "Cancel";
+
+/* Error Messages */
+"Error.network" = "Network connection failed";
+"Error.invalidData" = "Invalid data received";
+"Error.unknown" = "An unknown error occurred";
+
+/* Success Messages */
+"Success.saved" = "Data saved successfully";
+"Success.uploaded" = "File uploaded successfully";

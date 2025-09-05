@@ -1,0 +1,33 @@
+/* 
+  Main.strings
+  LocalizableReader
+  
+  Created by Test User on 2024-01-01.
+*/
+
+/* Navigation */
+"nav.home" = "Home";
+"nav.settings" = "Settings";
+"nav.profile" = "Profile";
+"nav.help" = "Help";
+
+/* Buttons */
+"button.save" = "Save";
+"button.cancel" = "Cancel";
+"button.delete" = "Delete";
+"button.edit" = "Edit";
+"button.add" = "Add";
+"button.remove" = "Remove";
+
+/* Form Labels */
+"form.name" = "Name";
+"form.email" = "Email";
+"form.password" = "Password";
+"form.confirmPassword" = "Confirm Password";
+"form.phone" = "Phone Number";
+
+/* Validation Messages */
+"validation.required" = "This field is required";
+"validation.email" = "Please enter a valid email address";
+"validation.passwordLength" = "Password must be at least 8 characters";
+"validation.passwordMatch" = "Passwords do not match";
