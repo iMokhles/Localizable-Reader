@@ -1,20 +1,10 @@
 # LocalizableReader
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iMokhles/Localizable-Reader/main/icon/IconCircle.png" alt="LocalizableReader" width="128" height="128">
-  
-  <h3>A powerful desktop application for reading, searching, and managing iOS/macOS localization strings from `.lproj` folders</h3>
-  
-  <p>Built with Electron and React, LocalizableReader provides an intuitive interface for developers working with multiple language localizations.</p>
-  
-  <img src="https://raw.githubusercontent.com/iMokhles/Localizable-Reader/main/docs/screenshot1.png" alt="LocalizableReader Screenshot" width="800">
-  
-  <br><br>
-  
-  ![LocalizableReader](https://img.shields.io/badge/version-1.0.0-teal?style=for-the-badge&logo=electron)
-  ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
-  ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-</div>
+A powerful desktop application for reading, searching, and managing iOS/macOS localization strings from `.lproj` folders. Built with Electron and React, LocalizableReader provides an intuitive interface for developers working with multiple language localizations.
+
+![LocalizableReader](https://img.shields.io/badge/version-1.0.0-teal?style=for-the-badge&logo=electron)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ## ✨ Features
 
