@@ -7,6 +7,11 @@
   
   <p>Built with Electron and React, LocalizableReader provides an intuitive interface for developers working with multiple language localizations.</p>
   
+  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #007acc;">
+    <h4>🎯 Why This Project is Important</h4>
+    <p><strong>Perfect for Reverse Engineering iOS/macOS Apps:</strong> When you extract `.lproj` folders from IPA files, the localization strings are in binary format and need to be converted to JSON to be readable. LocalizableReader makes this process seamless, helping you easily find and analyze localization strings when reverse engineering iOS/macOS app binaries.</p>
+  </div>
+  
   <img src="docs/screenshot1.png" alt="LocalizableReader Screenshot" width="800">
   
   <br><br>
