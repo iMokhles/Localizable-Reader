@@ -20,12 +20,11 @@ jobs:
       - run: pnpm install
 
       - name: Release Electron app for macOS
-        uses: imokhles/action-electron-builder@v1.0.0
+        uses: samuelmeuli/action-electron-builder@v1
         with:
-          package_manager: "pnpm"
           # GitHub token, automatically provided to the action
           # (No need to define this secret in the repo settings)
-          github_token: ${{ secrets.github_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
           # If the commit is tagged with a version (e.g. "v1.0.0"),
           # release the app after building
