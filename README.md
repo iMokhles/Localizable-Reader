@@ -1,5 +1,9 @@
 # LocalizableReader
 
+<div align="right">
+  <a href="README.md">🇺🇸 English</a> | <a href="README.ar.md">🇸🇦 العربية</a>
+</div>
+
 <div align="center">
   <img src="icon/IconCircle.png" alt="LocalizableReader" width="128" height="128">
   
