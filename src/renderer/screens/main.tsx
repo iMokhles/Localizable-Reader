@@ -3,6 +3,7 @@ import { useEffect } from 'react'
 import { FileSelector } from 'renderer/components/localization/file-selector'
 import { SearchBar } from 'renderer/components/localization/search-bar'
 import { StringsTable } from 'renderer/components/localization/strings-table'
+import { Footer } from 'renderer/components/ui/footer'
 import { useLocalizationStore } from 'renderer/lib/stores/localization-store'
 
 // The "App" comes from the context bridge in preload/index.ts
@@ -19,7 +20,12 @@ export function MainScreen() {
   return (
     <main className="flex flex-col h-screen bg-black">
       {!project ? (
-        <FileSelector />
+        <div className="flex flex-col h-full">
+          <div className="flex-1">
+            <FileSelector />
+          </div>
+          <Footer />
+        </div>
       ) : (
         <div className="flex flex-col h-full min-h-0">
           <div className="p-4 border-b border-gray-800 flex-shrink-0">
@@ -28,6 +34,7 @@ export function MainScreen() {
           <div className="flex-1 min-h-0">
             <StringsTable />
           </div>
+          <Footer />
         </div>
       )}
     </main>
