@@ -36,7 +36,7 @@ jobs:
         run: sudo apt-get install libarchive-tools rpm
 
       - name: Release Electron app
-        uses: daltonmenezes/action-electron-builder@v1.0.1
+        uses: imokhles/action-electron-builder@v1.0.0
         with:
           package_manager: "pnpm"
           # GitHub token, automatically provided to the action
