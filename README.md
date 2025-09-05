@@ -49,11 +49,13 @@
 - **🐧 Linux Support**: Complete Linux distribution support and testing
 
 ### 🔮 **Future Features**
+- **🌍 Multi-Language Management**: Manage and support multiple languages simultaneously with side-by-side comparison
 - **📊 Export Options**: Export to CSV, JSON, or Excel formats
 - **🔍 Advanced Search**: Regex search and advanced filtering options
 - **📱 Mobile Support**: iOS and Android companion apps
 - **☁️ Cloud Sync**: Sync projects across devices
 - **🎨 Theme Customization**: Light/dark theme options
+- **🔄 Translation Workflow**: Built-in translation management and progress tracking
 
 ## 🛠️ Technologies
 
